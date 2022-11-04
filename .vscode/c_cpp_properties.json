@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/noetic/include/**",
+        "/home/linzs/myCode/SLAMcode/lidarSLAM_ws/devel/include/**",
+        "/home/linzs/myCode/SLAMcode/LOAM_ws/src/A-LOAM/include/**",
+        "/home/linzs/myCode/SLAMcode/lidarSLAM_ws/src/LeGO-LOAM/LeGO-LOAM/include/**",
+        "/home/linzs/myCode/SLAMcode/lidarSLAM_ws/src/LIO-SAM/include/**",
+        "/home/linzs/sim_ws/src/realsense_ros_gazebo/include/**",
+        "/usr/include/**",
+        "/home/linzs/myCode/SLAMcode/lidarSLAM_ws/src/LIO-SAM/include/"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "clang-x64",
+      "compilerPath": "/usr/bin/clang",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14",
+      "compileCommands": "${workspaceFolder}/build/compile_commands.json"
+    }
+  ],
+  "version": 4
+}

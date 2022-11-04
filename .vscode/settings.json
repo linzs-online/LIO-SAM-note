@@ -1,0 +1,11 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#023516",
+        "titleBar.activeBackground": "#034B1F",
+        "titleBar.activeForeground": "#EDFEF4"
+    },
+    "python.autoComplete.extraPaths": [
+        "/home/linzs/myCode/SLAMcode/lidarSLAM_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}
