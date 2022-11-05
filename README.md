@@ -3,7 +3,7 @@
 
 >  LIO-SAM是一个激光惯导耦合的SLAM框架，包含了激光里程计、回环检测等功能模块。整个工程主要由四个cpp文件实现。
 
-![lio-sam](https://img-blog.csdnimg.cn/c481d6a982cd4ab9b0aedd24e71d3c37.png)
+![lio-sam](https://github.com/linzs-online/LIO-SAM-note/blob/main/framework.png)
 
 下面对四个文件的主要功能做一个简述，黑体加粗的地方即为该节点的核心功能！
 
